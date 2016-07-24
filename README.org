@@ -1,0 +1,20 @@
+* Receitas
+
+Receitas de minhas bebidas
+
+
+* Receita geral de hydromel
+
+Hydromel é uma bebida fácil de se fazer, bastando misturar água com mel para
+formar o *mosto* a ser fermentado. No proprio mosto, graças ao mel, haverá
+leveduras capazes de fermental-o, mas é boa practica inocular alguma variedade
+conhecida de levedura para deixar o resultado mais previsível. Utilizo:
+
+- Narbonne (Lalvin 71b-1122) para hydromeis com muita fructa (melomeis)
+- Champagne (Pasteur Champagne) para os demais
+
+O resultado será um vinho de mel, que poderá ser seco ou doce. Será seco se as
+leveduras consumirem todo o açúcar, transformando-o em alcohol; será doce, se
+ellas morrerem antes disso acontecer, sobrando açucar do mel. 
+
+WIP
