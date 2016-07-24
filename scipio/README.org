@@ -1,5 +1,7 @@
 * Scipio, o grande
 
+[[https://github.com/fermentaria-io/receitas/blob/master/scipio/Scipio.png]]
+
 Características:
 - Bochet
 - Seco
